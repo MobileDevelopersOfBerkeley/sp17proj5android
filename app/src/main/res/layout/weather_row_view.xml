@@ -1,0 +1,80 @@
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="150sp"
+    android:layout_margin="5dp"
+    android:background="@drawable/cardshape"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:padding="8sp"
+        android:layout_margin="7sp"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_weight="0.4"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.7"
+                android:text="75°"
+                android:textSize="60sp"
+                android:gravity="bottom|center_horizontal"
+                android:id="@+id/temperatureCardText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.3"
+                android:text="Berkeley"
+                android:textSize="20sp"
+                android:gravity="top|center_horizontal"
+                android:id="@+id/cityCardText" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"
+            android:src="@mipmap/ic_launcher"
+            android:id="@+id/weatherCardIcon" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_weight="0.3"
+            android:weightSum="5">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2.7"
+                android:text="Tue"
+                android:textSize="35sp"
+                android:gravity="bottom|center_horizontal"
+                android:id="@+id/dayCardText" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2.3"
+                android:text="3/7"
+                android:textSize="25sp"
+                android:gravity="top|center_horizontal"
+                android:id="@+id/dateCardText" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
