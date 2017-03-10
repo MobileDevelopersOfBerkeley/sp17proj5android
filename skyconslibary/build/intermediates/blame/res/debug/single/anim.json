@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/sarahtang/Documents/Berkeley/MDB/ElementWeatherApp/skyconslibary/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/sarahtang/.android/build-cache/8070b04c003ec5b0de626f8806c3c627b0b5cb0e/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/sarahtang/Documents/Berkeley/MDB/ElementWeatherApp/skyconslibary/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/sarahtang/.android/build-cache/8070b04c003ec5b0de626f8806c3c627b0b5cb0e/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/sarahtang/Documents/Berkeley/MDB/ElementWeatherApp/skyconslibary/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/sarahtang/.android/build-cache/8070b04c003ec5b0de626f8806c3c627b0b5cb0e/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sarahtang/Documents/Berkeley/MDB/ElementWeatherApp/skyconslibary/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/sarahtang/.android/build-cache/8070b04c003ec5b0de626f8806c3c627b0b5cb0e/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/sarahtang/Documents/Berkeley/MDB/ElementWeatherApp/skyconslibary/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/sarahtang/.android/build-cache/8070b04c003ec5b0de626f8806c3c627b0b5cb0e/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/sarahtang/Documents/Berkeley/MDB/ElementWeatherApp/skyconslibary/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/sarahtang/.android/build-cache/8070b04c003ec5b0de626f8806c3c627b0b5cb0e/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sarahtang/Documents/Berkeley/MDB/ElementWeatherApp/skyconslibary/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/sarahtang/.android/build-cache/8070b04c003ec5b0de626f8806c3c627b0b5cb0e/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/sarahtang/Documents/Berkeley/MDB/ElementWeatherApp/skyconslibary/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/sarahtang/.android/build-cache/8070b04c003ec5b0de626f8806c3c627b0b5cb0e/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/sarahtang/Documents/Berkeley/MDB/ElementWeatherApp/skyconslibary/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/sarahtang/.android/build-cache/8070b04c003ec5b0de626f8806c3c627b0b5cb0e/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/sarahtang/Documents/Berkeley/MDB/ElementWeatherApp/skyconslibary/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/sarahtang/.android/build-cache/8070b04c003ec5b0de626f8806c3c627b0b5cb0e/output/res/anim/abc_slide_out_top.xml"
+    }
+]
